@@ -18,3 +18,4 @@ Afterwards, we have performed and evaluated the performance and characteristics 
 Lastly, we have investigated patient readings _grouping_ and _anomaly detection_ using Unsupervised Learning methods of __density estimation__ and __clustering__, together with finding frequently-occurring disease-confident patterns from patients' data using __association mining__:
 
 * **_[Project 3: Heart Disease - Unsupervised Machine Learning](https://github.com/seby-sbirna/DTU-Introduction-to-Machine-Learning-and-Data-Mining-Capstone-Project/tree/master/Project%203%20-%20UCL%20Heart%20Disease%20-%20Unsupervised%20Machine%20Learning)_**
+---
