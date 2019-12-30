@@ -1,5 +1,5 @@
 
-## - Introduction to Machine Learning and Data Mining - <br> <br> <i> Project 1: Data feature extraction and visualisations </i>
+## <i> Project 1: Data feature extraction and visualisations </i>
 ### **_by Sebastian Sbirna_**
 
 ***
