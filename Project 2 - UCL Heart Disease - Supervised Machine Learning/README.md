@@ -1,5 +1,5 @@
 
-## - Introduction to Machine Learning and Data Mining - <br> <br> <i> Project 2: Supervised Machine Learning </i>
+## <i> Project 2: Supervised Machine Learning </i>
 
 ### **_by Sebastian Sbirna_**
 
