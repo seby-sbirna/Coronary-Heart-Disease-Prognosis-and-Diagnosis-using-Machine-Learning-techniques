@@ -1,5 +1,5 @@
 
-## - Introduction to Machine Learning and Data Mining - <br> <br> <i> Project 3: Unsupervised Machine Learning </i>
+## <i> Project 3: Unsupervised Machine Learning </i>
 
 ### **_by Sebastian Sbirna_**
 
