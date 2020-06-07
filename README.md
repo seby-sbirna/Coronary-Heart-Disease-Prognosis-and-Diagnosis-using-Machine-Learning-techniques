@@ -1,4 +1,4 @@
-## Coronary heart disease medical patient prediction using Machine Learning techniques: Feature Extraction, Supervised and Unsupervised Learning
+## Coronary heart disease prognosis and diagnosis using Machine Learning techniques: Feature Extraction, Supervised and Unsupervised Learning
 ### _By Sebastian Sbirna_
 ---
 Determining presence of any kind of diseases is a skill which has always been needed by society and, up until recently, could only be performed meticulously by doctors with extensive training and experience. 
